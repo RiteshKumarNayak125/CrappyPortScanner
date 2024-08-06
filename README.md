@@ -24,15 +24,7 @@ A lightweight and easy-to-use port scanner written in Python, designed for Linux
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/RiteshKumarNayak/CrappyPortscanner.git
-2. **Navigate to the Project Directory:**:
-   ```bash
-   cd port-scanner
 
- ## Usage
-1. **Navigate to the Project Directory:**:
-   ```bash
-   python3 port_scanner.py
-   
 2. **Follow the Prompts:**:
    ```bash
    Enter the target IP address.
