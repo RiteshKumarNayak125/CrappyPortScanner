@@ -17,7 +17,7 @@ A lightweight and easy-to-use port scanner written in Python, designed for Linux
   
 ## Screenshot
 
-![Port Scanner in Action](images/screenshot.png)
+![Port Scanner in Action](screetshot1.png)
 
 ## Installation
 
